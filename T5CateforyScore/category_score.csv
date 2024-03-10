@@ -1,4 +1,4 @@
-category,category_CN,rank,S_scale,S_score
+category,category_CN,T5_rank,T5_S_scale,T5_S_score
 রাজনীতি,政治,1,1.0,20.0
 অর্থনীতি,经济,2,0.875,17.5
 আইন,法律,3,0.75,15.0
